@@ -1,2 +1,2 @@
-minSdkVersion 21
+minSdkVersion 21  
 targetSdkVersion 22
