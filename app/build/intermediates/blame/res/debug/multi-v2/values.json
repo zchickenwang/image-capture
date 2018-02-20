@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Z/Downloads/recyclerview_image_gallery-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/Z/Downloads/recyclerview_image_gallery-master/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,1,-1",
+                        "startColumns": "-1,4,-1",
+                        "startOffsets": "-1,16,-1",
+                        "endColumns": "-1,50,-1",
+                        "endOffsets": "-1,62,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "169,222,273",
+                        "endColumns": "52,50,52",
+                        "endOffsets": "217,268,321"
+                    }
+                },
+                {
+                    "source": "/Users/Z/Downloads/recyclerview_image_gallery-master/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "326",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "419"
+                    }
+                },
+                {
+                    "source": "/Users/Z/Downloads/recyclerview_image_gallery-master/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

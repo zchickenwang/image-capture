@@ -1,0 +1,4 @@
+#Wed Feb 14 20:47:43 PST 2018
+base.0=/Users/Z/Downloads/recyclerview_image_gallery-master/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
